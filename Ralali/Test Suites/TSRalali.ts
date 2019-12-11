@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSRalali</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>b65b10ae-ecd9-41e8-a07e-6ba97c0ae1fc</testSuiteGuid>
+   <testCaseLink>
+      <guid>43a5ed5b-6d2b-4693-9c04-7ba420c3a768</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/testRalali</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c466824d-4114-4566-b626-e4cc0fa218e2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>6</value>
+         </iterationEntity>
+         <testDataId>Data Files/DTFRalali</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>c466824d-4114-4566-b626-e4cc0fa218e2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>apikey</value>
+         <variableId>b0dd1280-c01e-4d9a-8063-410c18582e7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c466824d-4114-4566-b626-e4cc0fa218e2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>s</value>
+         <variableId>4f60bf9b-5e77-45ab-a134-dd9016ad9922</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c466824d-4114-4566-b626-e4cc0fa218e2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_sc</value>
+         <variableId>ff13a23c-1202-49f5-b643-ff0f591ce912</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testRalali</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83172537-2453-4b38-af23-8d673b84b8e8</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.apikey</defaultValue>
+      <description></description>
+      <id>b0dd1280-c01e-4d9a-8063-410c18582e7d</id>
+      <masked>false</masked>
+      <name>apikey</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.s</defaultValue>
+      <description></description>
+      <id>4f60bf9b-5e77-45ab-a134-dd9016ad9922</id>
+      <masked>false</masked>
+      <name>s</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff13a23c-1202-49f5-b643-ff0f591ce912</id>
+      <masked>false</masked>
+      <name>expected_sc</name>
+   </variable>
+</TestCaseEntity>
